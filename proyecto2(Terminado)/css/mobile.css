@@ -1,0 +1,195 @@
+h2{
+    font-size: 1.5rem;
+}
+/* h3{
+    font-size: 1.75rem;
+}
+h4{
+    font-size: 1.5rem;
+}
+h5{
+    font-size: 1.25rem;
+}
+h6{
+    font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+img{
+    max-width: 100%;
+}
+
+p{
+    font-size: 1rem;
+    line-height: 1.7em;
+}
+
+a{
+    text-decoration: none;
+} */
+
+/* .container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
+} */
+
+
+.display__1{
+    font-size: 3rem;
+}
+.display__2{
+    font-size: 1.5rem;
+   
+}
+.display__3{
+    font-size: 1rem;
+}
+
+/* .display__2,
+.display__3{
+    font-weight: 300;
+} */
+
+
+.flex{
+    flex-direction: column;
+}
+
+/* .bk__header{
+    background: url('/img/mountain.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.bk__color{
+    background: #fcd0c7;
+}
+
+.bk__color--light{
+    background: #fcf0ee;
+}
+.bk__black{
+    background: #000;
+}
+
+.bk__shadow{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1) ;
+} */
+
+.pt__1{
+    padding-top: 80px;
+}
+.pt__2{
+    padding-top: 40px;
+}
+.pt__3{
+    padding-top: 20px;
+}
+.pb__1{
+    padding-bottom: 80px;
+}
+.pb__2{
+    padding-bottom: 40px;
+}
+.pb__3{
+    padding-bottom: 20px;
+}
+/* .m__1{
+    margin: 20px;
+} */
+
+/* .txt__large{
+    font-size: 20px;
+}
+.txt__center{
+    text-align: center;
+} */
+
+/* .btn{
+   display: inline-block;
+   font-size: 15px; 
+   padding: 12px 25px;
+   font-weight: 600;
+   letter-spacing: 1px;
+   border-radius: 4px;
+   border: none;
+}
+
+.btn__dark{
+    background: #000;
+    color: #fff;
+} */
+
+.btn__outline{
+    /* border: 2px solid #000;
+    border-radius: 20px; */
+    padding: 5px;
+}
+
+
+#mainheader{
+    height: 100%;
+}
+
+.navbar{
+    padding-top: 20px;
+}
+
+/* .navbar a{
+    color: #000;
+    font-weight: 500;
+}
+
+
+.navbar .container{
+    display: flex;
+    justify-content: end;
+}
+
+.navbar ul{
+    display: flex;
+} */
+
+.navbar ul li{
+    font-size: 14px;
+    padding: 12px;
+}
+
+#preview img{
+    
+    height: 120px;
+    padding: 10px 20px ;
+}
+
+#preview .txt__large{
+    font-size: 1rem;
+}
+
+/* #download img{
+    height: 500px;
+} */
+
+#download .flex__box:nth-child(2){
+    text-align: center;
+}
+
+#showcase,
+#author,
+#download{
+    text-align: center;
+}
+
+/* #mainfooter{
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+} */
